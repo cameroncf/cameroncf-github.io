@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About Cameron Childress
+title: About
 permalink: /about/
 ---
 
 I'll write something more about myself here someday. For now here are the best ways to get in touch with me.
 
-P: +1 678.637.5072<br/>
+P: <a href="tel:678.637.5072">+1 678.637.5072</a><br/>
 E: <a href="mailto:{{ site.email }}">{{ site.email }}</a>
