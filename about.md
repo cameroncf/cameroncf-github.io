@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+order: 2
 ---
 
 I'll write something more about myself here someday. For now here are the best ways to get in touch with me.
