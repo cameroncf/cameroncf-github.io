@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "First Post - New Blog"
-date:   2018-04-26 20:15:19 -0500
+date:   2018-04-26 08:15:19 -0500
 categories: Github Jekyll
 ---
 

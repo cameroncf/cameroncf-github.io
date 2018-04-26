@@ -8,6 +8,7 @@
 # Site settings
 title: Cameron Childress
 email: cameronc@sumoc.com
+phone: +1 678.637.5072
 description: > # this means to ignore newlines until "baseurl:"
   Entrepreneur and software developer. I make things. Occasionally post here.
 baseurl: "" # the subpath of your site, e.g. /blog
