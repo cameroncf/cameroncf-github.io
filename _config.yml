@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Cameron Childress
+title: The Childress Blog
 email: cameronc@sumoc.com
 phone: +1 678.637.5072
 description: > # this means to ignore newlines until "baseurl:"
@@ -18,3 +18,4 @@ github_username:  cameroncf
 
 # Build settings
 markdown: kramdown
+theme: jekyll-theme-leap-day # https://github.com/pages-themes/leap-day
